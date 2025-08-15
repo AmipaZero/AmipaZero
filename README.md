@@ -1,6 +1,5 @@
 # Hai 👋, Saya Amipa Umadiniah
 
-🎓 Lulusan Baru **Teknik Informatika / Computer Engineering**  
 💻 Bersemangat dalam **pengembangan backend** dan membangun aplikasi yang scalable  
 
 ## 🔧 Keahlian
