@@ -1,11 +1,11 @@
 # Hai 👋, Saya Amipa Umadiniah
 
-💻 Bersemangat dalam **pengembangan backend** dan membangun aplikasi yang scalable  
+💻 Bersemangat dalam **pengembangan backend** dan membangun aplikasi
 
 ## 🔧 Keahlian
 
 - **Bahasa Pemrograman:** Golang, Java, PHP, Node.js
-- **Framework:** Gin,Spring Boot, Php Slim
+- **Framework:** Gin, Spring Boot, Php Slim
 - **Pengembangan API:** Desain & implementasi RESTful API  
 - **Database:** MySQL, MongoDB  
 - **Tools & Lainnya:** Git, Postman
