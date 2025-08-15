@@ -1,32 +1,31 @@
-# Hi there 👋, I'm Amipa Umadiniah
+# Hai 👋, Saya Amipa Umadiniah
 
-🎓 Fresh Graduate in **Computer Engineering / Informatics**  
-💻 Passionate about **backend development** and building scalable applications  
+🎓 Lulusan Baru **Teknik Informatika / Computer Engineering**  
+💻 Bersemangat dalam **pengembangan backend** dan membangun aplikasi yang scalable  
 
-## 🔧 Skills
+## 🔧 Keahlian
 
-- **Languages & Frameworks:** Golang, Java, PHP, Node.js  
-- **API Development:** RESTful API design & implementation  
+- **Bahasa & Framework:** Golang, Java, PHP, Node.js  
+- **Pengembangan API:** Desain & implementasi RESTful API  
 - **Database:** MySQL, PostgreSQL, MongoDB  
-- **Tools & Others:** Git, Docker, Postman, Swagger/OpenAPI  
+- **Tools & Lainnya:** Git, Docker, Postman, Swagger/OpenAPI  
 
-## 📂 Projects & Highlights
+## 📂 Proyek & Prestasi
 
-- Built RESTful APIs for various applications using **Golang, Java, PHP, Node.js**  
-- Experience in designing **clean and maintainable code** following best practices  
-- Familiar with **authentication & authorization** using JWT  
+- Membuat RESTful API untuk berbagai aplikasi menggunakan **Golang, Java, PHP, Node.js**  
+- Berpengalaman dalam merancang **kode yang bersih dan mudah dipelihara** sesuai best practices  
+- Memahami **autentikasi & otorisasi** menggunakan JWT  
 
-## 🌱 Currently Learning
+## 🌱 Sedang Dipelajari
 
-- Microservices architecture  
-- Cloud deployment (AWS / GCP)  
-- Advanced Golang patterns  
+- Arsitektur Microservices  
+- Deployment di cloud (AWS / GCP)  
+- Pola lanjutan Golang  
 
-## 📫 Connect with Me
+## 📫 Hubungi Saya
 
-- GitHub: [https://github.com/username](https://github.com/AmipaZero)  
-- LinkedIn: [https://linkedin.com/in/username](https://linkedin.com/in/username)  
+- GitHub: [https://github.com/AmipaZero](https://github.com/AmipaZero)  
+- LinkedIn: [https://linkedin.com/in/AmipaZero](https://linkedin.com/in/AmipaZero)  
 - Email: your.email@example.com  
 
 ---
-
