@@ -24,7 +24,7 @@
 
 ## 📫 Connect with Me
 
-- GitHub: [https://github.com/username](https://github.com/username)  
+- GitHub: [https://github.com/username](https://github.com/AmipaZero)  
 - LinkedIn: [https://linkedin.com/in/username](https://linkedin.com/in/username)  
 - Email: your.email@example.com  
 
