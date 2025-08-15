@@ -5,12 +5,13 @@
 
 ## 🔧 Keahlian
 
-- **Bahasa & Framework:** Golang, Java, PHP, Node.js  
+- **Bahasa Pemrograman:** Golang, Java, PHP, Node.js
+- **Framework:** Gin,Spring Boot, Php Slim
 - **Pengembangan API:** Desain & implementasi RESTful API  
-- **Database:** MySQL, PostgreSQL, MongoDB  
-- **Tools & Lainnya:** Git, Docker, Postman, Swagger/OpenAPI  
+- **Database:** MySQL, MongoDB  
+- **Tools & Lainnya:** Git, Postman
 
-## 📂 Proyek & Prestasi
+## 📂 Proyek 
 
 - Membuat RESTful API untuk berbagai aplikasi menggunakan **Golang, Java, PHP, Node.js**  
 - Berpengalaman dalam merancang **kode yang bersih dan mudah dipelihara** sesuai best practices  
