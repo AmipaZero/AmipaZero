@@ -19,13 +19,9 @@
 ## 🌱 Sedang Dipelajari
 
 - Arsitektur Microservices  
-- Deployment di cloud (AWS / GCP)  
 - Pola lanjutan Golang  
 
 ## 📫 Hubungi Saya
 
 - GitHub: [https://github.com/AmipaZero](https://github.com/AmipaZero)  
-- LinkedIn: [https://linkedin.com/in/AmipaZero](https://linkedin.com/in/AmipaZero)  
-- Email: your.email@example.com  
-
 ---
